@@ -1,0 +1,3 @@
+USER NAME ,PASSWORD   ,RESPONSES CODE ,MESSAGE
+vuthelinh ,tr4stM3Pls ,200            ,login success
+vuthelinh ,tr@stM3Pls ,401            ,user_name or password is incorrect

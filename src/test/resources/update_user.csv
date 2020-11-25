@@ -1,0 +1,4 @@
+TOKEN                            ,EMAIL              ,PHONE NUMBER ,RESPONSES CODE ,MESSAGE
+KyQ3XycVZVoQBixtWdLtYjdjGEtCYknO ,updated@email.com  ,84987000001  ,200            ,update success
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ,updated@email.com  ,84987000001  ,403            ,invalid token
+KyQ3XycVZVoQBixtWdLtYjdjGEtCYknO ,updated.email.com  ,84987000001  ,400            ,invalid parameter
